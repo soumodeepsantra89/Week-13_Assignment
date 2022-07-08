@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m5kBvCXM03DA+0xZtfghrT9gmNDd44YBlPTR+PegRKWhvPHis6/qckqjMl660eH3xqKnHyoVjZ7GSJ/ZmAAO1w==",
+  "success": true,
+  "projectFilePath": "E:\\Week_13\\EmployeeDetails\\EmployeeDetails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SOUMODEEP SANTRA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
