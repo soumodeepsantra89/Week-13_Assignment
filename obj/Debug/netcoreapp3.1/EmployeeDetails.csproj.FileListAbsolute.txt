@@ -146,3 +146,8 @@ E:\Week_13\EmployeeDetails\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.d
 E:\Week_13\EmployeeDetails\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Week_13\EmployeeDetails\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Week_13\EmployeeDetails\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Week_13\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Create.cshtml.g.cs
+E:\Week_13\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Delete.cshtml.g.cs
+E:\Week_13\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Details.cshtml.g.cs
+E:\Week_13\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Edit.cshtml.g.cs
+E:\Week_13\EmployeeDetails\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Index.cshtml.g.cs
